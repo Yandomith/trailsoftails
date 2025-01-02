@@ -1,0 +1,4 @@
+repository "MyPet@yandomith@cloud"
+  path "/"
+    br "/main"
+    co "/main"
